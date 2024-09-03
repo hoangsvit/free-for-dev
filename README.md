@@ -700,6 +700,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Authgear](https://www.authgear.com) - Bring Passwordless, OTPs, 2FA, SSO to your apps in minutes. All Front-end included. Free up to 5000 MAUs.
   * [Authress](https://authress.io/) — Authentication login and access control, unlimited identity providers for any project. Facebook, Google, Twitter and more. The first 1000 API calls are free.
   * [Authy](https://authy.com) - Two-factor authentication (2FA) on multiple devices, with backups. Drop-in replacement for Google Authenticator. Free for up to 100 successful authentications.
+  * [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - A complete authorization management system for authoring, testing, and deploying access policies. Fine-grained authorization and access control, free up to 100 monthly active principals.
   * [Clerk](https://clerk.com) — User management, authentication, 2FA/MFA, prebuilt UI components for sign-in, sign-up, user profiles, and more. Free up to 10,000 monthly active users.
   * [Cloud-IAM](https://www.cloud-iam.com/) — Keycloak Identity and Access Management as a Service. Free up to 100 users and one realm.
   * [Corbado](https://www.corbado.com/) — Add passkey-first authentication to new or existing apps. Free for unlimited MAUs.
@@ -711,7 +712,9 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Okta](https://developer.okta.com/signup/) — User management, authentication and authorization. Free for up to 100 monthly active users.
   * [onelogin.com](https://www.onelogin.com/) — Identity as a Service (IDaaS), Single Sign-On Identity Provider, Cloud SSO IdP, three company apps, and five personal apps, unlimited users
   * [Ory](https://ory.sh/) - AuthN/AuthZ/OAuth2.0/Zero Trust managed security platform. Forever free developer accounts with all security features, unlimited team members, 200 daily active users, and 25k/mo permission checks.
+  * [Phase Two](https://phasetwo.io) - Keycloak Open Source Identity and Access Management. Free realm up to 1000 users, up to 10 SSO connections, leveraging Phase Two's Keycloak enhanced container which includes the [Organization](https://phasetwo.io/product/organizations/) extension.
   * [Stytch](https://www.stytch.com/) - Flexible authentication APIs and SDKs with reach-resistant passwords, passwordless login flows, MFA, SSO, and more. Email/SMS sending + failover and fraud protections built-in. Offers 5,000 Monthly Active Users free (B2C) or 1,000 Monthly Active Users and 25 Organizations free (B2B).
+  * [Stack Auth](https://stack-auth.com) — Open-source authentication that doesn't suck. The most developer-friendly solution, getting you started in just five minutes. Self-hostable for free, or offers a managed SaaS version with 10k free Monthly Active Users.
   * [SuperTokens](https://supertokens.com/) - Open source user authentication that natively integrates into your app - enabling you to get started quickly while controlling the user and developer experience. Free for up to 5000 MAUs.
   * [Warrant](https://warrant.dev/) — Hosted enterprise-grade authorization and access control service for your apps. The free tier includes 1 million monthly API requests and 1,000 authz rules.
   * [ZITADEL Cloud](https://zitadel.com) — A turnkey user and access management that works for you and supports multi-tenant (B2B) use cases. Free for up to 25,000 authenticated requests, with all security features (no paywall for OTP, Passwordless, Policies, and so on).
@@ -910,13 +913,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Free Professional Resume Templates & Editor](https://www.overleaf.com/latex/templates/tagged/cv) - Free platform with lots of Resume templates of Experienced Professionals, ready to clone and edit fully and download, ATS optimized.
   * [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - Free short courses from industry-leading experts to get hands-on experience with the latest generative AI tools and techniques in an hour or less.
   * [Roadmap.sh](https://roadmap.sh) - Free learning roadmaps covering all aspects of development from Blockchain to UX Design.
+  * [Cisco Networking Academy, Skills for All](https://skillsforall.com/) - Offers free certification-aligned courses in topics like cybersecurity, networking, and Python.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Email
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
-  * [yopmail](https://yopmail.com/) - Free, temporary inboxes of your choice instantaneously.
   * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
@@ -925,21 +928,18 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Burnermail](https://burnermail.io/) – Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
   * [Buttondown](https://buttondown.email/) — Newsletter service. Up to 100 subscribers free
   * [CloudMailin](https://www.cloudmailin.com/) - Incoming email via HTTP POST and transactional outbound - 10,000 free emails/month
-  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) — Email validation and verification API for developers, 800 free API requests/month
   * [Contact.do](https://contact.do/) — Contact form in a link (bitly for contact forms)
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
-  * [emaildrop.io](https://emaildrop.io/) — Free disposable email provider. Email addresses can be created via GraphQL API.
   * [EmailLabs.io](https://emaillabs.io/en) — Send up to 9,000 Emails for free every month, up to 300 emails daily.
   * [EmailOctopus](https://emailoctopus.com) - Up to 2,500 subscribers and 10,000 emails per month free
   * [EmailJS](https://www.emailjs.com/) – This is not an entire email server; this is just an email client that you can use to send emails right from the client without exposing your credentials, the free tier has 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
   * [EtherealMail](https://ethereal.email) - Ethereal is a fake SMTP service, mainly aimed at Nodemailer and EmailEngine users (but not limited to). It's an entirely free anti-transactional email service where messages never get delivered.
+  * [Temp-Mail.org](https://temp-mail.org/en/) - Temporary / Disposable Mail Gen Utilizing a range variety of domain. Email Address refreshes everytime, the page is reloaded. It is entirely free and does not include any pricing for their services.
   * [TempMailDetector.com](https://tempmaildetector.com/) - Verify up to 200 emails a month for free and see if an email is temporary or not.
-  * [Tempmailers](https://tempmailers.com/) - Generate unlimited temporary email addresses for free
   * [Emailvalidation.io](https://emailvalidation.io) - 100 free email verifications per month
-  * [fakermail.com](https://fakermail.com/) — Free, temporary email for testing with the last 100 email accounts stored.
+  * [FakeMailGenerator.com](https://www.fakemailgenerator.com/) - A German Temporary / Disposable Mail generator. Support 10 domain, while giving you the freedom of creating unlimited addresses. (include ads) but other than that, there is no pricing included in the service, it is entirely free.
   * [forwardemail.net](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name (**note**: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .lat, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
-  * [HotTempMail](https://hottempmail.com/) - Unlimited, free, disposable temporary email addresses. Autoexpires in one day.
   * [Imitate Email](https://imitate.email) - Sandbox Email Server for testing email functionality across build/qa and ci/cd. Free accounts get 15 emails a day forever.
   * [ImprovMX](https://improvmx.com) – Free email forwarding.
   * [EForw](https://www.eforw.com) – Free email forwarding for one domain. Receive and send emails from your domain.
@@ -957,7 +957,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
-  * [Mailtie.com](https://mailtie.com/) - Free Email Forwarding for Your Domain. You don't need to register. Free Forever.
   * [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
   * [Mailvalidator.io](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available.
   * [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
@@ -966,6 +965,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar.
   * [Parsio.io](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
   * [pepipost.com](https://pepipost.com) — 30k emails free for the first month, then the first 100 emails/day free.
+  * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
   * [Queuemail.dev](https://queuemail.dev) — Reliable email delivery API. Free tier (10,000 emails/per month). Send asynchronously. Use several SMTP servers. Blocklists, Logging, Tracking, Webhooks, and more.
@@ -977,7 +977,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (student, researcher, etc.).
   * [Substack](https://substack.com) — Unlimited free newsletter service. Start paying when you charge for it.
   * [Sweego](https://www.sweego.io/) - European transactional emails API for developers. 500 emails/day free.
-  * [Tempmailo](https://tempmailo.com/) - Unlimited free temp email addresses. Autoexpire in two days.
   * [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails easy. Five hundred transactional emails/month free.
   * [temp-mail.io](https://temp-mail.io) — Free disposable temporary email service with multiple emails at once and forwarding
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
@@ -1795,6 +1794,7 @@ Update Time, five active automations, webhooks.
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [Play with Docker](https://labs.play-with-docker.com/) — A simple, interactive, fun playground to learn Docker.
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
+  * [ttl.sh](https://ttl.sh/) - Anonymous & ephemeral Docker image registry
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1975,6 +1975,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
   * [PageTools](https://pagetools.co/) - Offers a suite of forever free AI-powered tools to help you generate essential website policies, create social media bios, posts and web pages with a simple one-click interface.
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
+  * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
 
 
 **[⬆️ Back to Top](#table-of-contents)**
