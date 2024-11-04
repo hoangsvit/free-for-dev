@@ -389,6 +389,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [repsy.io](https://repsy.io) — 1 GB Free private/public Maven Repository.
   * [Gemfury](https://gemfury.com) — Private and public artifact repos for Maven, PyPi, NPM, Go Module, Nuget, APT, and RPM repositories. Free for public projects.
   * [paperspace](https://www.paperspace.com/) — Build & scale AI models, Develop, train, and deploy AI applications, free plan: public projects, 5Gb storage, basic instances.
+  * [RepoForge](https://repoforge.io) - Private cloud-hosted repository for Python, Debian, NPM packages and Docker registries. Free plan for open source/public projects.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1102,6 +1103,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Ultra AI](https://ultraai.app) - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.
   * [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles.
   * [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource](https://github.com/langfuse/langfuse)
+  * [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource](https://github.com/pollinations/pollinations)
 
 **[⬆️ Back to Top](#table-of-contents)**
 
