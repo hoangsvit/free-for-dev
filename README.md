@@ -377,6 +377,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [OpenWeb Ninja](https://www.openwebninja.com/) - Extremely comprehensive real-time SERP and public data APIs: Google Search, Shopping, Jobs, Images, Lens, News, Google Maps Businesses / Places, Reviews, Photos, Website Emails and Social Contacts Scraper, Amazon, Yelp and more. All APIs include a free tier with 100 to 200 free monthly requests.
   * [Tavily AI](https://tavily.com/) - API for online serach and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
   * [Zuplo](https://zuplo.com) - Free API Management platform to design, build, and deploy APIs to the Edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript.
+  * [Composio](https://composio.dev/) - Integration platform for AI Agents and LLMs. Integrate over 200+ tools across the agentic internet.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -538,6 +539,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [codeclimate.com](https://codeclimate.com/) — Automated code review, free for Open Source and unlimited organisation-owned private repos (up to 4 collaborators). Also free for students and institutions.
   * [codecov.io](https://codecov.io/) — Code coverage tool (SaaS), free for Open Source and one free private repo
   * [CodeFactor](https://www.codefactor.io) — Automated Code Review for Git. The free version includes unlimited users, public repositories, and one private repo.
+  * [coderabbit.ai](https://coderabbit.ai) — AI-powered code review tool that integrates with GitHub/GitLab. Free tier includes 200 files/hour, 3 reviews per hour, and 50 conversations/hour. Free forever for open source projects.
   * [codescene.io](https://codescene.io/) - CodeScene prioritizes technical debt based on how the developers work with the code and visualizes organizational factors like team coupling and system mastery. Free for Open Source.
   * [CodSpeed](https://codspeed.io) - Automate performance tracking in your CI pipelines. Catch performance regressions before deployment, thanks to precise and consistent metrics. Free forever for Open Source projects.
   * [coveralls.io](https://coveralls.io/) — Display test coverage reports, free for Open Source
@@ -826,6 +828,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Monitoring
 
+  * [UptimeObserver.com](https://uptimeobserver.com) - Get 20 uptime monitors with 5-minute intervals and a customizable status page—even for commercial use. Enjoy unlimited, real-time notifications via email and Telegram. No credit card needed to get started.
   * [Pingmeter.com](https://pingmeter.com/) - 5 uptime monitors with 10-minute interval. Monitor SSH, HTTP, HTTPS, and any custom TCP ports.
   * [alerty.ai](https://www.alerty.ai) - Free APM and monitoring for your FE, BE, DB, and more + free agent runs.
   * [appdynamics.com](https://www.appdynamics.com/) — Free for 24-hour metrics, application performance management agents limited to one Java, one .NET, one PHP, and one Node.js
