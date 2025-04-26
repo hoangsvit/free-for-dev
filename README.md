@@ -280,6 +280,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ipbase.com](https://ipbase.com) - IP Geolocation API - Forever free plan that spans 150 monthly requests.
   * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 30k requests per month (1k/day) limit.
   * [IP Geolocation API](https://www.abstractapi.com/ip-geolocation-api) — IP Geolocation API from Abstract - Extensive free plan allowing 20,000 monthly requests.
+  * [IPLocate](https://www.iplocate.io) — IP Geolocation API, free up to 1,000 requests/day. Includes proxy/VPN/hosting detection, ASN data, IP to Company, and more. IPLocate also offers free downloadable IP to Country and IP to ASN databases in CSV or GeoIP-compatible MMDB formats.
   * [IP2Location](https://www.ip2location.com) — Freemium IP geolocation service. LITE database is available for free download. Import the database in the server and perform a local query to determine the city, coordinates, and ISP information.
   * [IP2Location.io](https://www.ip2location.io/) — Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, and more. The free plan includes 30k credits per month. IP2Location.io also offers free WHOIS and hosted domain lookups. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
   * [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
@@ -308,6 +309,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mocki](https://mocki.io) - A tool that lets you create mock GraphQL and REST APIs synced to a GitHub repository. Simple REST APIs are free to develop and use without signup.
   * [Mocko.dev](https://mocko.dev/) — Proxy your API, choose which endpoints to mock in the cloud and inspect traffic, for free. Speed up your development and integration tests.
   * [Mocky](https://designer.mocky.io/) - A simple web app to generate custom HTTP responses for mocking HTTP requests. Also available as [open source](https://github.com/julien-lafont/Mocky).
+  * [Mock N Roll](https://mpcknroll.me/) - Free Mocks API Service—a powerful tool to simulate real API responses without backend delays. Perfect for frontend devs, QA testers, and DevOps teams. [repo](https://github.com/haerulmuttaqin/mocknroll-web).
   * [reqres.in](https://reqres.in) - A Free hosted REST-API ready to respond to your AJAX requests.
   * [microenv.com](https://microenv.com) —  Create fake REST API for developers with the possibility to generate code and app in a docker container.
   * [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
@@ -957,6 +959,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT OpenCourseWare is an online publication of materials from over 2,500 MIT courses, freely sharing knowledge with learners and educators around the world. Youtube channel can be found at [@mitocw](https://www.youtube.com/@mitocw/featured)
   * [W3Schools](https://www.w3schools.com/) - Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more.
   * [Khan Academy](https://www.khanacademy.org/computing/computer-programming) - Free online guides for learning basic and advanced HTML/CSS, JavaScript and SQL.
+  * [Full Stack Open](https://fullstackopen.com/en/) – Free university-level course on modern web development with React, Node.js, GraphQL, TypeScript, and more. Fully online and self-paced.
   * [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
 
 **[⬆️ Back to Top](#table-of-contents)**
