@@ -1544,6 +1544,7 @@ Update Time, five active automations, webhooks.
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
   * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
   * [coolors](https://coolors.co/) - Color palette generator. Free.
+  * [CMYK Pantone](https://www.cmyktopantone.com/) - Easily convert CMYK values to the closest Pantone colors and other color models in seconds for free.
   * [Branition](https://branition.com/colors) - Hand-curated color pallets best fitted for brands.
   * [css-gradient.com](https://www.css-gradient.com/) - Free tool to quickly generate custom cross-browser CSS gradients. In RGB and HEX format.
   * [easyvectors.com](https://easyvectors.com/) — EasyVectors.com is a free SVG vector art stock. Download the best vector graphics absolutely for free.
@@ -1795,6 +1796,7 @@ Update Time, five active automations, webhooks.
   * [AppFit](https://appfit.io) - AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.
   * [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
   * [Peasy](https://peasy.so) - Peasy is a lightweight, privacy-focused analytics tool for websites and products. Free plan includes 3,000 events per month.
+  * [Rybbit](https://rybbit.io) - Open-source and cookieless alternative to Google Analytics that is 10x more intuitive. Free plans has 3,000 monthly events. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -2032,6 +2034,7 @@ HTML Themes and UI Kits to create your applications faster!
   * [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
   * [Killer Coda](https://killercoda.com/)  - Interactive playground in your browser to study Linux, Kubernetes, Containers, Programming, DevOps, Networking
   * [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
+  * [Table Format Converter](https://www.tableformatconverter.com) - A free tool to convert table data to different formats, such as CSV, HTML, JSON, Markdown and more.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
