@@ -805,6 +805,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [EMQX Serverless](https://www.emqx.com/en/cloud/serverless-mqtt) - Scalable and secure serverless MQTT broker you can get in seconds. 1M session minutes/month free forever (no credit card required).
   * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
+  * [SuprSend](https://www.suprsend.com/) - SuprSend is a notification infrastructure that streamlines your product notifications with an API-first approach. Create and deliver transactional, crons, and engagement notifications on multiple channels with a single notification API. In free plan you get 10,000 notifications per month, including different workflow nodes such as digests, batches, multi-channels, preferences, tenants, broadcasts and more. 
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1318,6 +1319,7 @@ Update Time, five active automations, webhooks.
   * [huaweicloud.com](https://www.huaweicloud.com/intl/en-us/product/dns.html) – Free DNS hosting by Huawei
   * [Hetzner](https://www.hetzner.com/dns-console) – Free DNS hosting from Hetzner with API support.
   * [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
+  * [VolaryDDNS](https://ddns.volary.cloud) - Free high-performant DDNS with no subscriptions or advertisements
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1359,7 +1361,7 @@ Update Time, five active automations, webhooks.
   * [Turso by ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
   * [InfluxDB](https://www.influxdata.com/) — Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
   * [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
-  * [cockroachlabs.com](https://www.cockroachlabs.com/free-tier/) — Free CockroachDB up to 5GB and 1vCPU (limited [request units](https://www.cockroachlabs.com/docs/cockroachcloud/serverless-faqs.html#what-are-the-usage-limits-of-cockroachdb-serverless-beta))
+  * [CockroachDB Cloud](https://www.cockroachlabs.com/pricing/) — Free tier offers 50 million RUs and 10 GiB of storage (same as 15$ worth) free per month. ([What's the Request Units](https://www.cockroachlabs.com/docs/cockroachcloud/metrics-request-units.html))
   * [Neo4j Aura](https://neo4j.com/cloud/aura/) — Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).
   * [Neon](https://neon.tech/) — Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
   * [Dgraph Cloud](https://cloud.dgraph.io/pricing?type=free) — Managed native Graph DBMS with a GraphQL API. Limited to 1 MB data transfer per day.
@@ -1432,6 +1434,7 @@ Update Time, five active automations, webhooks.
   * [Jira](https://www.atlassian.com/software/jira) — Advanced software development project management tool used in many corporate environments. Free plan for up to 10 users.
   * [kanbanflow.com](https://kanbanflow.com/) — Board-based project management. Free, premium version with more options
   * [kanbantool.com](https://kanbantool.com/) — Kanban board-based project management. The free plan has two boards and two users, without attachments or files.
+  * [kan.bn](https://kan.bn/) - A powerful, flexible kanban app that helps you organise work, track progress, and deliver results—all in one place. Free plan up to 1 user for unlimited boards, unlimited lists, unlimited cards.
   * [Kitemaker.co](https://kitemaker.co) - Collaborate through all phases of the product development process and keep track of work across Slack, Discord, Figma, and Github. Unlimited users, unlimited spaces. Free plan up to 250 work items.
   * [Kiter.app](https://www.kiter.app/) - Let anyone organize their job search and track interviews, opportunities, and connections. Powerful web app and Chrome extension. Completely free.
   * [Kumu.io](https://kumu.io/)  — Relationship maps with animation, decorations, filters, clustering, spreadsheet imports, etc. The free tier allows unlimited public projects. Graph size unlimited. Free private projects for students. Sandbox mode is available if you prefer not to leave your file publicly online (upload, edit, download, discard).
