@@ -257,7 +257,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [DB-IP](https://db-ip.com/api/free) - Free IP geolocation API with 1k request per IP per day.lite database under the CC-BY 4.0 License is free too.
   * [DeepAR](https://developer.deepar.ai) — Augmented reality face filters for any platform with one SDK. The free plan provides up to 10 monthly active users (MAU) and tracks up to 4 faces
   * [Deepnote](https://deepnote.com) - A new data science notebook. Jupyter is compatible with real-time collaboration and running in the cloud. The free tier includes unlimited personal projects, unlimited basic machines with 5GB RAM and 2vCPU, and teams with up to 3 editors.
-  * [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+  * [Compare JSON](https://comparejson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
   * [Disease.sh](https://disease.sh/) — A free API providing accurate data for building the Covid-19 related useful Apps.
   * [Doczilla](https://www.doczilla.app/) — SaaS API empowering the generation of screenshots or PDFs directly from HTML/CSS/JS code. The free plan allows 250 documents month.
   * [Doppio](https://doppio.sh/) — Managed API to generate and privately store PDFs and Screenshots using top rendering technology. The free plan allows 400 PDFs and Screenshots per month.
@@ -274,6 +274,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Hex](https://hex.tech/) - a collaborative data platform for notebooks, data apps, and knowledge libraries. Free community tier with up to five projects.
   * [Hook0](https://www.hook0.com/) - Hook0 is an open-source Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 100 events/day with seven days of history retention for free.
   * [Hoppscotch](https://hoppscotch.io) - A free, fast, and beautiful API request builder.
+  * [HS Ping](https://hsping.com) - A multi-country HS (Harmonized System) and HTS (Harmonized Tariff System) code lookup API, with a free plan offering 100 lookups/day.
   * [huggingface.co](https://huggingface.co) - Build, train, and deploy NLP models for Pytorch, TensorFlow, and JAX. Free up to 30k input characters/mo.
   * [Insomnia](https://insomnia.rest) - Open-source API client for designing and testing APIs, it supports REST and GraphQL
   * [Invantive Cloud](https://cloud.invantive.com/) — Access over 70 (cloud)platforms such as Exact Online, Twinfield, ActiveCampaign or Visma using Invantive SQL or OData4 (typically Power BI or Power Query). Includes data replication and exchange. Free plan for developers and implementation consultants. Free for specific platforms with limitations in data volumes.
@@ -578,7 +579,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [aikido.dev](https://www.aikido.dev) — All-in-one appsec platform covering SCA, SAST, CSPM, DAST, Secrets, IaC, Malware, Container scanning, EOL,... Free plan includes two users, scanning of 10 repos, 1 cloud, 2 containers & 1 domain.
   * [CertKit](https://www.certkit.io/certificate-management) - Manage SSL Certificate issuance, renewal, and monitoring. Search the Certificate Transparency Logs. Free for 3 certificates and 1 user after the beta.
-  * [Corgea](https://corgea.com/) - Free autonomous security platform that finds, validates and fixes insecure code and packages across +20 languages and frameworks. Free plan includes 1 user and 2 repos. 
+  * [Corgea](https://corgea.com/) - Free autonomous security platform that finds, validates and fixes insecure code and packages across +20 languages and frameworks. Free plan includes 1 user and 2 repos.
   * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
   * [CyberChef](https://gchq.github.io/CyberChef/) — A simple, intuitive web app for analyzing and decoding/encoding data without dealing with complex tools or programming languages. Like a Swiss army knife of cryptography & encryption. All features are free to use, with no limit. Open source if you wish to self-host.
   * [Datree](https://www.datree.io/) — Open Source CLI tool to prevent Kubernetes misconfigurations by ensuring that manifests and Helm charts follow best practices as well as your organization’s policies
@@ -678,7 +679,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [httpSMS](https://httpsms.com) - Send and receive text messages using your Android phone as an SMS Gateway. Free to send and receive up to 200 messages per month.
   * [knock.app](https://knock.app) – Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. The free plan includes 10,000 messages/mo.
   * [Novu.co](https://novu.co) — The open-source notification infrastructure for developers. Simple components and APIs for managing all communication channels in one place: Email, SMS, Direct, In-App and Push. The free plan includes 30,000 notifications/month with 90 days of retention.
-  * [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more. 
+  * [Pingram.io](https://www.pingram.io/) — Communication infrastructure in 5 minutes. Free tier includes: 100 SMS and calls, 3000 Emails, Push, Slack, MS Teams, WhatsApp, and more.
   * [Pocket Alert](https://pocketalert.app) - Send push notifications to your iOS and Android devices. Effortlessly integrate via API or Webhooks and maintain full control over your alerts. Free plan: 50 messages per day to 1 device and 1 application.
   * [pubnub.com](https://www.pubnub.com/) - Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
   * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
@@ -1257,6 +1258,7 @@ Update Time, five active automations, webhooks.
   * [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
   * [embed.ly](https://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, and extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
   * [Ente](https://ente.io/) - Ente is an end-to-end encrypted cloud for photos, videos and 2FA secrets. Can also be self-hosted along with a generous forever free-tier of 10GB. For free tier users, only single replica of data is kept.
+  * [FileShot.io](https://fileshot.io) — Zero-knowledge encrypted file sharing. AES-256-GCM browser-side encryption ensures files are encrypted in-browser before upload. No account required for sender or recipient. Self-hostable (MIT open-source). Free tier includes unlimited uploads with no file size restrictions.
   * [file.io](https://www.file.io) - 2 GB storage of files. A file is auto-deleted after one download. REST API to interact with the storage. Rate limit one request/minute.
   * [freetools.site](https://freetools.site/) — Free online tools. Convert or edit documents, images, audio, video, and more.
   * [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
@@ -1285,7 +1287,7 @@ Update Time, five active automations, webhooks.
   * [podio.com](https://podio.com/) — You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
   * [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
-  * [QRtracer](https://qrtracer.io) – Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads. 
+  * [QRtracer](https://qrtracer.io) – Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
   * [QuickChart](https://quickchart.io) — Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
   * [resmush.it](https://resmush.it) — reSmush.it is a FREE API that provides image optimization. reSmush.it has been implemented on the most common CMS such as WordPress, Drupal, or Magento. reSmush.it is the most used image optimization API with more than seven billion images already treated, and it is still Free of charge.
@@ -1499,6 +1501,7 @@ Update Time, five active automations, webhooks.
   * [mockaroo](https://mockaroo.com/) — Mockaroo lets you generate realistic test data in CSV, JSON, SQL, and Excel formats. You can also create mocks for back-end API.
   * [Mocklets](https://mocklets.com) - an HTTP-based mock API simulator that helps simulate APIs for faster parallel development and more comprehensive testing, with a lifetime free tier.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
+  * [OnlineGDB](https://onlinegdb.com) - A free online ide thats supports 40+ languages and is pre installed with tons of libraries; and also has a debugging option, flags, tutorials, and a QNA page!
   * [Paiza](https://paiza.cloud/en/) — Develop Web apps in Browser without needing to set up anything. Free Plan offers one server with 24 24-hour lifetime and 4 hours of running time per day with 2 CPU cores, 2 GB RAM, and 1 GB storage.
   * [PHPSandbox](https://phpsandbox.io/) — Online development environment for PHP
   * [Replit](https://replit.com/) — A cloud coding environment for various program languages.
@@ -1510,8 +1513,6 @@ Update Time, five active automations, webhooks.
   * [VSCodium](https://vscodium.com/) - Community-driven, without telemetry/tracking, and freely-licensed binary distribution of Microsoft’s editor VSCode
   * [wakatime.com](https://wakatime.com/) — Quantified self-metrics about your coding activity using text editor plugins, limited plan for free.
   * [Wave Terminal](https://waveterm.dev/) - Wave is an open-source, cross-platform terminal for seamless workflows. Render anything inline. Save sessions and history. Powered by open web standards. MacOS and Linux.
-  * [WebComponents.dev](https://webcomponents.dev/) — In-browser IDE to code web components in isolation with 58 templates available, supporting stories, and tests.
-  * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
