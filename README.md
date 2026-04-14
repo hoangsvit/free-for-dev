@@ -357,7 +357,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Zipcodebase](https://zipcodebase.com) - Free Zip Code API, access to Worldwide Postal Code Data. 5,000 free requests/month.
   * [Zipcodestack](https://zipcodestack.com) - Free Zip Code API and Postal Code Validation. Ten thousand free requests/month.
   * [Zuplo](https://zuplo.com/) - Free API Management platform to design, build, and deploy APIs to the Edge. Add API Key authentication, rate limiting, developer documentation and Monetization to any API in minutes. OpenAPI-native and fully-programmable with web standard apis & Typescript. The free plan offers up to 10 projects, unlimited production edge environments, 1M monthly requests, and 10GB egress.
-
+  * [Metashot](https://metashot.io) — Open Graph (OG) social preview image generation API. Generate dynamic 1200×630 images for Twitter, LinkedIn and Facebook via URL params, edge-cached on Cloudflare Workers. Free tier: 1,000 renders/month. Paid plans from $12/month.
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Artifact Repos
@@ -609,6 +609,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
   * [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
   * [qualys.com](https://www.qualys.com/community-edition) - Find web app vulnerabilities, audit for OWASP Risks
+  * [SikkerKey](https://sikkerkey.com) - Machine authenticated secrets manager, includes 2 projects, 2 bootstrapped machines, 20 secrets and 7 days audit log retention for free.
   * [Smart Grow Vault](https://vault.smart-grow.app/) - Secure Enterprise-grade platform for managing environment variables and secrets. Free tier includes up to 3 applications and 150 secrets per project.
   * [Socket](https://socket.dev) - Free supply chain security for individual developers, small teams, and open source projects. Includes a free app and firewall CLI tool to protect your code from vulnerable and malicious dependencies. Detects 70+ indicators of supply chain risk.
   * [SOOS](https://soos.io) - Free, unlimited SCA scans for open-source projects. Detect and fix security threats before release. Protect your projects with a simple and effective solution.
@@ -861,6 +862,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ImprovMX](https://improvmx.com) - Free email forwarding.
   * [Inboxes App](https://inboxesapp.com) - Create up to 3 temporary emails a day, then delete them when you're done from within a handy Chrome extension. Perfect for testing signup flows.
   * [inboxkitten.com](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open source and can be self-hosted.
+  * [KaiMail](https://kaimail.net) - Email forwarding for custom domains with ARC/DKIM signing. Free plan includes 1 domain, 1 mailbox, 300 emails/month, and up to 1MB message size. Email receiving webhook also available. Special plans for open-source projects.
   * [mail-tester.com](https://www.mail-tester.com) - Test if the email's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month.
   * [Maileroo](https://maileroo.com) - SMTP relay and email API for developers. 5,000 emails per month, unlimited domains, free email verification, blacklist monitoring, mail tester and more.
   * [mailcatcher.me](https://mailcatcher.me/) - Catches mail and serves it through a web interface.
@@ -904,6 +906,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ConfigCat](https://configcat.com) - ConfigCat is a developer-centric feature flag service with unlimited team size, excellent support, and a reasonable price tag. Free plan up to 10 flags, two environments, 1 product, and 5 Million requests per month.
   * [Flagsmith](https://flagsmith.com) - Release features with confidence; manage feature flags across web, mobile, and server-side applications. Use our hosted API, deploy to your own private cloud, or run on-premise.
   * [GrowthBook](https://growthbook.io) - Open source feature flag and A/B testing provider with built-in Bayesian statistical analysis engine. Free for up to 3 users, unlimited feature flags and experiments.
+  * [Rollgate](https://rollgate.io) - Feature flag management with scheduled releases, instant rollback, and A/B testing. 13 SDKs included. Free plan up to 500K API requests/month, unlimited flags, 3 team members, no credit card required.
   * [Hypertune](https://www.hypertune.com) - Type-safe feature flags, A/B testing, analytics and app configuration, with Git-style version control and synchronous, in-memory, local flag evaluation. Free for up to 5 team members with unlimited feature flags and A/B tests.
   * [Statsig](https://www.statsig.com) - A robust platform for feature management, A/B testing, analytics, and more. Its generous free plan offers unlimited seats, flags, experiments, and dynamic configurations, supporting up to 1 million events per month.
   * [Toggled.dev](https://www.toggled.dev) - Enterprise-ready, scalable multi-regional feature toggles management platform. Free plan up to 10 flags, two environments, unlimited requests. SDK, analytics dashboard, release calendar, Slack notifications, and all other features are included in the endless free plan.
@@ -1024,7 +1027,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
   * [Northflank](https://northflank.com) - Build and deploy microservices, jobs, and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. The free tier includes two services, two cron jobs and 1 database.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
-  * [Railway](https://railway.app/) - Deploy anything with git-based deployments, automatic CI/CD, and built-in databases. Free tier includes $5 of credits each month
   * [pythonanywhere.com](https://www.pythonanywhere.com/) - Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
   * [WunderGraph](https://cloud.wundergraph.com) - An open-source platform that allows you to  quickly build, ship and manage modern APIs. Built-in CI/CD, GitHub integration, and automatic HTTPS. Up to 3 projects, 1GB egress, 300 minutes of build time per month on the [free plan](https://wundergraph.com/pricing)
   * [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools but with all the power of using programming languages. The free tier includes [1.000 yeps](https://yepcode.io/pricing/).
@@ -1094,7 +1096,6 @@ Update Time, five active automations, webhooks.
   * [Qoddi](https://qoddi.com) - PaaS service similar to Heroku with a developer-centric approach and all-inclusive features. Free tier for static assets, staging, and developer apps.
   * [readthedocs.org](https://readthedocs.org/) - Free documentation hosting with versioning, PDF generation, and more
   * [render.com](https://render.com) - Unified cloud to build and run apps and sites with free SSL, a global CDN, private networks, auto-deploys from Git, and completely free plans for web services, databases, and static web pages.
-  * [Serv00.com](https://serv00.com/) - 3 GB of free web hosting with daily backups (7 days). Support: Crontab jobs, SSH access, repositories (GIT, SVN, and Mercurial), support: MySQL, PostgreSQL, MongoDB, PHP, Node.js, Python, Ruby, Java, Perl, TCL/TK, Lua, Erlang, Rust, Pascal, C, C++, D, R, and many more.
   * [SourceForge](https://sourceforge.net/) - Find, Create, and Publish Open Source software for free
   * [surge.sh](https://surge.sh/) - Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [tilda.cc](https://tilda.cc/) - One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon, and no custom domain
@@ -1145,6 +1146,7 @@ Update Time, five active automations, webhooks.
   * [backblaze.com](https://www.backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
   * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
+  * [Modal](https://modal.com) - AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -1161,20 +1163,18 @@ Update Time, five active automations, webhooks.
   * [InfluxDB](https://www.influxdata.com/) - Timeseries database, free up to 3MB/5 minutes writes, 30MB/5 minutes reads and 10,000 cardinalities series
   * [MemCachier](https://www.memcachier.com/) - Managed Memcache service. Free for up to 25MB, 1 Proxy Server, and basic analytics
   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - free tier gives 512 MB
-  * [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (50k nodes, 175k relationships).
-  * [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage (total), 1 Project ,10 branches, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
+  * [Neo4j Aura](https://neo4j.com/cloud/aura/) - Managed native Graph DBMS / analytics platform with a Cypher query language and a REST API. Limits on graph size (200k nodes, 400k relationships).
+  * [Neon](https://neon.tech/) - Managed PostgreSQL, 0.5 GB of storage per project, 100 Projects ,10 branches per project, Unlimited Databases, always-available primary branch ( Auto suspend after 5 minutes), 20 hours of Active time per month (total) for non-primary branch compute.
   * [Nile](https://www.thenile.dev/) - A Postgres platform for B2B apps. Unlimited databases, Always available with no shutdown, 1GB of storage (total), 50 million query tokens, autoscaling, unlimited vector embeddings
-  * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
+  * [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 500MB total storage, 5 databases, integrated with Prisma ORM.
   * [restdb.io](https://restdb.io/) - a fast and straightforward NoSQL cloud database service. With restdb.io you get schema, relations, automatic REST API (with MongoDB-like queries), and an efficient multi-user admin UI for working with data. The free plan allows 3 users, 2500 records, and 1 API request per second.
-  * [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 500MB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
-  * [scalingo.com](https://scalingo.com/) - Primarily a PaaS but offers a 128MB to 192MB free tier of MySQL, PostgreSQL, or MongoDB
+  * [Rivestack](https://rivestack.io) - Managed PostgreSQL with pgvector optimized for AI workloads. The free tier includes 2GB storage, daily snapshots, 14-day point-in-time recovery, and a built-in SQL editor that converts search queries to vector embeddings.
   * [SeaTable](https://seatable.io/) - Flexible, Spreadsheet-like Database built by the Seafile team. unlimited tables, 2,000 lines, 1-month versioning, up to 25 team members.
   * [skyvia.com](https://skyvia.com/) - Cloud Data Platform offers a free tier and all plans are completely free while in beta
   * [StackBy](https://stackby.com/) - One tool that combines spreadsheets' flexibility, databases' power, and built-in integrations with your favorite business apps. The free plan includes unlimited users, ten stacks, and a 2GB attachment per stack.
   * [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
-  * [Turso by ChiselStrike](https://chiselstrike.com/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
+  * [Turso by ChiselStrike](https://turso.tech/) - Turso is SQLite Developer Experience in an Edge Database. Turso provides a Free Forever starter plan, 9 GB of total storage, Up to 500 databases, Up to 3 locations, 1 billion row reads per month, and Local development support with SQLite.
   * [Upstash](https://upstash.com/) - Serverless Redis with free tier up to 500K monthly commands, 256MB max database size, and 20 concurrent connections
-  * [Xata Lite](https://lite.xata.io/) - Xata Lite is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free plan provides 10 branches and 15 GB of storage without pausing or cold starts.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
