@@ -281,6 +281,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [ip-api](https://ip-api.com) - IP Geolocation API, Free for non-commercial use, no API key required, limited to 45 req/minute from the same IP address for the free plan.
   * [IP.City](https://ip.city) - 100 Free IP geolocation requests per day
   * [IP2Location.io](https://www.ip2location.io/) - Freemium, fast, and reliable IP geolocation API. Get data like city, coordinates, ISP, ASN, AS data and more. The free plan includes 50k credits per month. IP2Location.io also offers 500 free WHOIS and hosted domain lookups per month. See domain registration details and find domains hosted on a specific IP. Upgrade to a paid plan for more features.
+  * [ip2geo.dev](https://ip2geo.dev) - IP geolocation API to convert IP addresses into location data including city, country, timezone, ASN, and currency. The free plan includes 1,000 requests per month.
   * [ipaddress.sh](https://ipaddress.sh) - Simple service to get a public IP address in different [formats](https://about.ipaddress.sh/).
   * [ipapi.is](https://ipapi.is/) - A reliable IP Address API from Developers for Developers with the best Hosting Detection capabilities that exist. The free plan offers 1000 lookups without signup.
   * [ipapi](https://ipapi.co/) - IP Address Location API by Kloudend, Inc - A reliable geolocation API built on AWS, trusted by Fortune 500. The free tier offers 30k lookups/month (1k/day) without signup.
@@ -876,11 +877,13 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Mailtrap.io](https://mailtrap.io/) - Email API, SMTP, 3,500 emails/month free for transactional and marketing emails. Email Sandbox - fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
   * [Mutant Mail](https://www.mutantmail.com/) - Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
   * [OneSignal](https://onesignal.com/) - 10,000 emails/month,No Credit Cards are required.
+  * [Orbisearch](https://orbisearch.com) - Free bulk email validator, 100 validations per day, no signup required.
   * [Parsio.io](https://parsio.io) - Free email parser (Forward email, extract the data, send it to your server)
   * [Plunk](https://useplunk.com) - 3K emails/month for free
   * [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
   * [Proton Mail](https://proton.me/mail) -  Free secure email account service provider with built-in end-to-end encryption. Free 1GB storage.
   * [Resend](https://resend.com) - Transactional emails API for developers. 3,000 emails/month, 100 emails/day free, one custom domain.
+  * [SendBridge Mail Tester](https://sendbridge.com/mail-tester) — Free email deliverability test with no signup. Generates a unique inbox address, then analyzes SPF, DKIM, DMARC, Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality. Unlimited tests, results in seconds, shareable report pages.
   * [Sender](https://www.sender.net) - Up to 15,000 emails/month, up to 2,500 subscribers
   * [Sendpulse](https://sendpulse.com) - 500 subscribers/month, 15,000 emails/month free
   * [SendStreak](https://www.sendstreak.com/) - Email framework as a service, that adds templates, automations, history, etc to your own SMTP server (E.g. AWS, Maileroo, Gmail). Free up to 100 emails/day, no time limit.
