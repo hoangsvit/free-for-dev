@@ -347,6 +347,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Trophy](https://trophy.so) - API infrastructure for building gamification features like achievements, streaks, points and leaderboards in web and mobile apps. Free for 100 monthly active users.
   * [UniRateAPI](https://unirateapi.com) - Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
   * [vatcheckapi.com](https://vatcheckapi.com) - Simple and free VAT number validation API. 150 free validations per month.
+  * [vatnode](https://vatnode.dev) - EU VAT number validation REST API with VIES and national tax-registry fallback, returning the official VIES consultation number for audit records. Free tier of 100 validations/month, no credit card.
   * [WeatherXu](https://weatherxu.com/) - Global weather data including current conditions, hourly and daily forecasts, and weather alerts via our API. Integrating AI models and ML systems to analyze and combine multiple weather models to deliver improved forecast accuracy. Free tier includes 10,000 API calls/month.
   * [WebScraping.AI](https://webscraping.ai) - Simple Web Scraping API with built-in parsing, Chrome rendering, and proxies. Two thousand free API calls per month.
   * [Weights & Biases](https://wandb.ai) - The developer-first MLOps platform. Build better models faster with experiment tracking, dataset versioning, and model management. Free tier for personal projects only, with 100 GB of storage included.
@@ -529,7 +530,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     developer tier includes 100k test executions/month, with more free inclusions for open-source projects.
   * [bytebase.com](https://www.bytebase.com/) - Database CI/CD and DevOps. Free under 20 users and ten database instances
   * [CircleCI](https://circleci.com/) - Comprehensive free plan with all features included in a hosted CI/CD service for GitHub, GitLab, and BitBucket repositories. Multiple resource classes, Docker, Windows, Mac OS, ARM executors, local runners, test splitting, Docker Layer Caching, and other advanced CI/CD features. Free for up to 6000 minutes/month execution time, unlimited collaborators, 30 parallel jobs in private projects, and up to 80,000 free build minutes for Open Source projects.
-  * [cirrus-ci.org](https://cirrus-ci.org) - Free for public GitHub repositories
   * [cirun.io](https://cirun.io) - Free for public GitHub repositories
   * [codemagic.io](https://codemagic.io/) - Free 500 build minutes/month
   * [deployhq.com](https://www.deployhq.com/) - 1 project with ten daily deployments (30 build minutes/month)
@@ -578,7 +578,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [tesults.com](https://www.tesults.com) - Test results reporting and test case management. Integrates with popular test frameworks. Open Source software developers, individuals, educators, and small teams getting started can request discounted and free offerings beyond basic free projects.
   * [UseWebhook.com](https://usewebhook.com) - Capture and inspect webhooks from your browser. Forward to localhost, or replay from history. Free to use.
   * [Vaadin](https://vaadin.com) - Build scalable UIs in Java or TypeScript, and use the integrated tooling, components, and design system to iterate faster, design better, and simplify the development process. Unlimited Projects with five years of free maintenance.
-  * [webhook-test.com](https://webhook-test.com) - Debug and inspect webhooks and HTTP requests with a unique URL during integration. Completely free, you can create unlimited URLs and receive recommendations.
   * [webhook.site](https://webhook.site) - Verify webhooks, outbound HTTP requests, or emails with a custom URL. A temporary URL and email address are always free.
   * [websitepulse.com](https://www.websitepulse.com/tools/) - Various free network and server tools.
   * [kogiQA](https://kogiqa.com) - A web UI automation tool that functions without the need for selectors. Every developer gets 500 actions per month for free.
@@ -608,7 +607,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [letsencrypt.org](https://letsencrypt.org/) - Free SSL Certificate Authority with certs trusted by all major browsers
   * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby, and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
   * [Mozilla Observatory](https://observatory.mozilla.org/) - Find and fix security vulnerabilities in your site.
-  * [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
   * [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
   * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
   * [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
@@ -1030,7 +1028,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps and 30-second timeouts.
   * [Apply.build](https://apply.build/) - Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
   * [appwrite](https://appwrite.io) - Unlimited projects with no project pausing (supports websockets) and authentication service. 1 Database, 3 Buckets, 5 Functions per project in free tier.
-  * [boxd](https://boxd.sh) - Persistent Linux VMs accessible through SSH or CLI. Free tier includes 10 VMs at 2 vCPU / 8 GB RAM / 100 GB disk each, with a public HTTPS URL per VM (so no networking fuss) and the ability to fork any running machine. <30ms cold boot, <100ms fork, <1ms suspend/resume, EU-hosted & EU-made, idle VMs sleep to zero.
   * [Clever Cloud](https://clever.cloud) - European PaaS with automated deployments, autoscaling, managed databases, and Git-based workflows. Includes €20 free credits at signup, a limited DEV plan with free MySQL and PostgreSQL databases, and free allowances for services like Heptapod and FS Buckets.
   * [Choreo](https://wso2.com/choreo/) - AI-native internal developer platform as a service. The free tier includes up to 5 components and $100 credits per month.
   * [codenameone.com](https://www.codenameone.com/) - Open source, cross-platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with an unlimited number of projects
@@ -1040,7 +1037,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [encore.dev](https://encore.dev/) - Backend framework using static analysis to provide automatic infrastructure, boilerplate-free code, and more. Includes free cloud hosting for hobby projects.
   * [flightcontrol.dev](https://flightcontrol.dev/) - Deploy web services, databases, and more on your own AWS account with a Git push style workflow. Free tier for users with 1 developer on personal GitHub repos. AWS costs are billed through AWS, but you can use credits and the AWS free tier.
   * [gigalixir.com](https://gigalixir.com/) - Gigalixir provides one free instance that never sleeps and a free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups for Elixir/Phoenix apps.
-  * [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
   * [Northflank](https://northflank.com) - Build and deploy microservices, jobs, and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. The free tier includes two services, two cron jobs and 1 database.
   * [Ownkube](https://ownkube.io) - Free single-node k3s in your own AWS account, run apps, databases, workers with a git push. Use your AWS credits at peak efficiency.
   * [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow based on any trigger. Workflows are code you can run [for free](https://docs.pipedream.com/pricing/). No server or cloud resources to manage.
@@ -1055,7 +1051,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Activepieces](https://www.activepieces.com) - Build automation flows to connect several apps together in your app's backend. For example, send a Slack message or add a Google Sheet row when an event fires in your app. Free up to 5,000 tasks per month.
   * [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
   * [backendless.com](https://backendless.com/) - Mobile and Web Baas, with 1 GB file storage free, push notifications of 50,000/month, and 1000 data objects in the table.
-  * [bismuth.cloud](https://www.bismuth.cloud/) - Our AI will boostrap your Python API on our function runtime and hosted storage, build and host for free in our online editor or locally with your favorite tools.
   * [connectycube.com](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 1000 users.
   * [convex.dev](https://convex.dev/) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and WebSockets to stream updates to various clients. Free for small projects - up to 1M records, 5M monthly function calls.
   * [ETLR](https://etlr.io) - Define, version, and deploy automation scripts using YAML. A developer-first alternative to drag-and-drop tools. Can be used for scheduled tasks, AI agents, and infrastructure monitoring. Free tier includes 100 credits/month.
@@ -1160,7 +1155,6 @@ Update Time, five active automations, webhooks.
 
   * [4EVERLAND](https://www.4everland.org/) - Compatible with AWS S3 - APIs, interface operations, CLI, and other upload methods, upload and store files from the IPFS and Arweave networks in a safe, convenient, and efficient manner. Registered users can get 6 GB of IPFS storage and 300MB of Arweave storage for free. Any Arweave file uploads smaller than 150 KB are free.
   * [backblaze.com](https://www.backblaze.com/b2/) - Backblaze B2 cloud storage. Free 10 GB (Amazon S3-like) object storage for unlimited time
-  * [C2 Object Storage](https://c2.synology.com/en-us/pricing/object-storage) - S3 compatibility object storage. 15 GB free storage and 15 GB downloads per month.
   * [filebase.com](https://filebase.com/) - S3 Compatible Object Storage Powered by Blockchain. 5 GB free storage for an unlimited duration.
   * [Modal](https://modal.com) - AI-driven IaaS with generous compute, storage; offers $30 (might be limited to $5 on certain accounts) of free monthly credits
 
@@ -1611,6 +1605,7 @@ Update Time, five active automations, webhooks.
   * [redirect.pizza](https://redirect.pizza/) - Easily manage redirects with HTTPS support. The free plan includes 10 sources and 100,000 hits per month.
   * [redirection.io](https://redirection.io/) - SaaS tool for managing HTTP redirections for businesses, marketing and SEO.
   * [redirs.com](https://www.redirs.com/) — Easy domain redirects with auto-SSL, analytics, and URL path forwarding. Free for basic use (up to 5 domains).
+  * [RedirHub](https://www.redirhub.com/) - API-first URL redirect infrastructure with custom nameservers, edge network, HTTPS, and proactive link monitoring. Free plan includes 2 hostnames, 100K requests per month, auto-SSL, path forwarding, and REST API access.
   * [ReqBin](https://reqbin.com/) - Post HTTP Requests Online. Popular Request Methods include GET, POST, PUT, DELETE, and HEAD. Supports Headers and Token Authentication. Includes a basic login system for saving your requests.
   * [Smartcar API](https://smartcar.com) - An API for cars to locate, get fuel tank, battery levels, odometer, unlock/lock doors, etc.
   * [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
