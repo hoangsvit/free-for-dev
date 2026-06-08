@@ -315,7 +315,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Parseur](https://parseur.com) - 20 free pages/month: Extract data from PDFs, emails. AI powered. Full API access.
   * [PDF-API.io](https://pdf-api.io) - PDF Automation API, visual template editor or HTML to PDF, dynamic data integration, and PDF rendering with an API. The free plan comes with one template, 100 PDFs/month.
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
-  * [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
   * [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
   * [Postman](https://postman.com) - Simplify workflows and create better APIs - faster - with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
@@ -336,7 +335,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SmartParse](https://smartparse.io) - SmartParse is a data migration and CSV to API platform that offers time- and cost-saving developer tools. The Free tier includes 300 Processing Units per month, Browser uploads, Data quarantining, Circuit breakers, and Job Alerts.
   * [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. The free plan includes 2 APIs and 2,500 API calls per month. You don't need a credit card.
   * [Sqlable](https://sqlable.com/) - A collection of free online SQL tools, including an SQL formatter and validator, SQL regex tester, fake data generator, and interactive database playgrounds.
-  * [Supportivekoala](https://supportivekoala.com/) - Allows you to autogenerate images by your input via templates. The free plan allows you to create up to 50 images per month.
   * [Svix](https://www.svix.com/) - Webhooks as a Service. Send up to 50,000 messages/month for free.
   * [Tavily AI](https://tavily.com/) - API for online search and rapid insights and comprehensive research, with the capability of organization of research results. 1000 request/month for the Free tier with No credit card required.
   * [TemplateFox](https://pdftemplateapi.com) - PDF generation API with a visual template editor, dynamic data merging, and SDKs for 7 languages. Free plan includes 60 PDFs/month and 3 templates.
@@ -607,6 +605,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [letsencrypt.org](https://letsencrypt.org/) - Free SSL Certificate Authority with certs trusted by all major browsers
   * [meterian.io](https://www.meterian.io/) - Monitor Java, Javascript, .NET, Scala, Ruby, and NodeJS projects for security vulnerabilities in dependencies. Free for one private project, unlimited projects for open source.
   * [Mozilla Observatory](https://observatory.mozilla.org/) - Find and fix security vulnerabilities in your site.
+  * [Otterwatch](https://otterwatch.dev/) - Daily SSL/TLS certificate monitoring: expiry alerts (30/7/1 day), chain and OCSP revocation checks, and certificate transparency issuance history. Free forever for 5 domains, no credit card.
   * [Protectumus](https://protectumus.com) - Free website security check, site antivirus, and server firewall (WAF) for PHP. Email notifications for registered users in the free tier.
   * [Public Cloud Threat Intelligence](https://cloudintel.himanshuanand.com/) - High confidence Indicator of Compromise(IOC) targeting public cloud infrastructure, A portion is available on github (https://github.com/unknownhad/AWSAttacks). Full list is available via API
   * [pyup.io](https://pyup.io) - Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
@@ -773,6 +772,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [pingpong.one](https://pingpong.one/) - Advanced status page platform with monitoring. The free tier includes one public customizable status page with an SSL subdomain. Pro plan is offered to open-source projects and non-profits free of charge.
   * [Pulsetic](https://pulsetic.com) - 10 monitors, 6 Months of historical Uptime/Logs, unlimited status pages, and custom domains included! For infinite time and unlimited email alerts for free. You don't need a credit card.
   * [robusta.dev](https://home.robusta.dev/) - Powerful Kubernetes monitoring based on Prometheus. Bring your own Prometheus or install the all-in-one bundle. The free tier includes up to 20 Kubernetes nodes. Alerts via Slack, Microsoft Teams, Discord, and more. Integrations with PagerDuty, OpsGenie, VictorOps, DataDog, and many other tools.
+  * [Runframe](https://runframe.io/) - On-call alerting, incident management, and public/private status pages. The free plan includes up to 5 users, 1 team, 1 on-call schedule, basic status pages, incident lifecycle, and Slack-native incident response.
   * [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
   * [Simple Observability](https://simpleobservability.com) - Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. Free for one server.
   * [sitesure.net](https://sitesure.net) - Website and cron monitoring - 2 monitors free
@@ -1136,7 +1136,6 @@ Update Time, five active automations, webhooks.
   * [noip.at](https://noip.at/) - Free DDNS service without registration, tracking, logging or advertising. No limit to domains.
   * [noip](https://www.noip.com/) - a dynamic DNS service that allows up to 3 hostnames free with confirmation every 30 days
   * [sslip.io](https://sslip.io/) - Free DNS service that when queried with a hostname with an embedded IP address returns that IP address.
-  * [VolaryDDNS](https://volaryddns.net) - Free high-performant DDNS with no subscriptions or advertisements
   * [zilore.com](https://zilore.com/en/dns) - Free DNS hosting for 5 domains.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) - Free DNS hosting with Dynamic DNS Support.
   * [Zonomi](https://zonomi.com/) - Free DNS hosting service with instant DNS propagation. Free plan: 1 DNS zone (domain name) with up to 10 DNS records.
@@ -1314,7 +1313,6 @@ Update Time, five active automations, webhooks.
   * [plot.ly](https://plot.ly/) - Graph and share your data. The free tier includes unlimited public files and ten private files
   * [podio.com](https://podio.com/) - You can use Podio with a team of up to five people and try out the features of the Basic Plan, except user management
   * [Proton Drive](https://proton.me/drive) - Ultra-secure cloud storage for files and key documents. Free plan offers 5gb of storage space.
-  * [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator - no login, no watermark, no ads. Up to 100 URLs per bulk export.
   * [QRtracer](https://qrtracer.io) - Free QR code generator with built-in scan analytics, bulk generation & brand customisation, focused on reliability without any ads.
   * [QuickChart](https://quickchart.io) - Generate embeddable image charts, graphs, and QR codes
   * [redbooth.com](https://redbooth.com) - P2P file syncing, free for up to 2 users
@@ -1345,7 +1343,6 @@ Update Time, five active automations, webhooks.
   * [marvelapp.com](https://marvelapp.com/) - Design, prototyping, and collaboration, free plan limited to one user and project.
   * [Mindmup.com](https://www.mindmup.com/) - Unlimited mind maps for free and store them in the cloud. Your mind maps are available everywhere, instantly, from any device.
   * [Mockplus iDoc](https://www.mockplus.com/idoc) - Mockplus iDoc is a powerful design collaboration & handoff tool. Free Plan includes three users and five projects with all features available.
-  * [Modeldraw.com](https://modeldraw.com) - Complete diagramming platform with UML, system architecture, flowcharts, mind maps, and Agile workflows. Real-time collaboration with unlimited team members, no credit card required.
   * [photopea.com](https://www.photopea.com) - A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
   * [Plasmic](https://www.plasmic.app/) - A fast, easy-to-use, robust web design tool and page builder that integrates into your codebase. Build responsive pages or complex components; optionally extend with code; and publish to production sites and apps.
   * [Proto.io](https://www.proto.io) - Create fully interactive UI prototypes without coding. The free tier is available when the free trial ends. The free tier includes one user, one project, five prototypes, 100MB of online storage, and a preview of the proto.io app.
@@ -1509,6 +1506,7 @@ Update Time, five active automations, webhooks.
 ## Payment and Billing Integration
 
   * [Adapty.io](https://adapty.io/) - One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
+  * [Churnkey](https://churnkey.co) - Cancel flows (open-sourced), churn metrics, and revenue analytics for subscription businesses. Free forever. 
   * [CoinMarketCap](https://coinmarketcap.com/api/) - Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.
   * [Currencyapi](https://currencyapi.com) - Free currency conversion and exchange rate data API. Free 300 requests per month, 10 requests per minute for private use.
   * [CurrencyApi](https://currencyapi.net/) - Live Currency Rates for Physical and Cryptocurrencies, delivered in JSON and XML. The free tier offers 1,250 API requests/month.
@@ -1558,7 +1556,7 @@ Update Time, five active automations, webhooks.
 ## Screenshot APIs
 
   * [ApiFlash](https://apiflash.com) - A screenshot API based on Aws Lambda and Chrome. Handles full page, captures timing, and viewport dimensions.
-  * [microlink.io](https://microlink.io/) - It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 250 requests/day every day free.
+  * [microlink.io](https://microlink.io/) - It turns any website into data such as metatags normalization, beauty link previews, scraping capabilities, or screenshots as a service. 50 requests/day every day free.
   * [PhantomJsCloud](https://PhantomJsCloud.com) - Browser automation and page rendering.  Free Tier offers up to 500 pages/day.  Free Tier since 2017.
   * [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
   * [screenshotlayer.com](https://screenshotlayer.com/) - Capture highly customizable snapshots of any website. Free 100 snapshots/month
